@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">361661001_3FF3D</string>
+    <string name="name">Muhtar</string>
+    <string name="rata_kiri">Rata Kiri</string>
+    <string name="rata_tengah">Rata Tengah</string>
+    <string name="rata_kanan">Rata Kanan</string>
+    <string name="cetak_tebal">Cetak Tebal</string>
+    <string name="cetak_miring">Cetak Miring</string>
+</resources>
